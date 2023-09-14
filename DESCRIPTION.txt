@@ -1,0 +1,36 @@
+	  PROYECTO - LOGIN
+
+..............................Backend
+
+# Tecnologías
+ • Node JS
+ • Express
+ • TypeScript
+
+.........................package.json
+
+/dependencies:
+ > express
+ > cors
+ > dotenv
+ > jsonwebtoken
+ > bcrypt
+ > sequelize
+ > mysql2
+
+/devDependencies:   --save-dev
+ > typescript
+ > nodemon
+
+-----------------------------Frontend
+
+# Tecnologías
+ • HTML
+ • CSS
+ • Bootstrap
+ • JavaScript
+ • Angular
+
+*************************************
+
+
